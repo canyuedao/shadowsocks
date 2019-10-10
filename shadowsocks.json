@@ -1,0 +1,9 @@
+{
+  "server": "0.0.0.0",
+  "port_password": {
+        "8501" : "admin",
+        "8502" : "test",
+        "8503" : "guest"
+  },
+  "method": "aes-256-cfb"
+}
